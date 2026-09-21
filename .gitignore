@@ -1,0 +1,19 @@
+# Entornos de desarrollo y editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+# Archivo del sistema operativo
+Thumbs.db
+.DS_Store
+Desktop.ini
+# Logs y temporales
+* .log
+* .tmp
+* .bak
+# Variables de entorno y dependencias (si aplica mas adelante)
+.env 
+.env.local
+node_modules/
+
